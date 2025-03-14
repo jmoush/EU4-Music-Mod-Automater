@@ -9,6 +9,7 @@
 
 # How to use:
 You can compile the code yourself or you can run the executable in the github repository.
+
 A directory on the desktop with named "OGG" (not case-sensitive) must exist or the program will crash.
 
 The OGG folder must contain .ogg files that are formatted in 44.1 KHz sample rate and 192 kbps in order to function inside EU4.
