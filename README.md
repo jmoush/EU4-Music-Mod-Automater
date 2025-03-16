@@ -8,7 +8,8 @@
  Tested on windows 10 pc and only works with windows given the use of windows only commands.  
 
 # How to use:
-You can compile the code yourself or you can run the executable in the github repository.
+
+You can compile the code yourself in visual studio or extract the debug.zip file and run the executable inside the debug folder.
 
 A directory on the desktop with named "OGG" (not case-sensitive) must exist or the program will crash.
 
